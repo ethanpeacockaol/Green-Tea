@@ -88,4 +88,22 @@ unplaced android tools flipaclip true Bluetooth keyboard app playless works simp
 unfilled windows clones would be flipaclip
 okay add termux widget with shortcuts
 
-okay apks we
+okay thingd fhat need tk be ensbled
+
+windows ssh
+
+havd tk enabkeit
+
+have to set firewall allowance for 8022
+
+have to configure sshd_configbfor port 8022 
+
+have to install wsl2
+
+so make two folders
+
+convert Android 
+
+convert Mac
+
+convert windows
